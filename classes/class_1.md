@@ -7,5 +7,5 @@ Student
 
 `buy_food` (reduces lunch_account)
 `join_honor_roll` (sets is_honor_student to true)
-`fail_class` (sets one of the classes in class_grades to F)
+`fail_class` (sets one of the grades in class_grades to F)
 `request_prefered_name` (changes name string)
